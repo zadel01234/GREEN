@@ -21,3 +21,7 @@ MUI DataGrid: virtualization means offscreen rows aren't in the DOM — don't re
 ## 2026-08-03
 
 JS: Array.prototype.at(-1) is a clean alternative to arr[arr.length - 1].
+
+## 2026-08-04
+
+Design systems: define spacing/color tokens once — hardcoded values are the first thing that drifts.
