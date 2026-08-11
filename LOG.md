@@ -49,3 +49,7 @@ MUI: sx prop values re-create objects on every render; use styled() for anything
 ## 2026-08-10
 
 Git: `git commit --fixup` + `git rebase -i --autosquash` keeps history clean when fixing earlier commits.
+
+## 2026-08-11
+
+React Native: FlatList's getItemLayout avoids expensive layout measurement for fixed-height rows.
