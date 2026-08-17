@@ -73,3 +73,7 @@ React: keys should be stable and unique — array index keys break state when li
 ## 2026-08-16
 
 CSS: `gap` works in flexbox now, not just grid — no more margin-hack spacing between items.
+
+## 2026-08-17
+
+Firebase: Firestore listeners leak if not unsubscribed on unmount — always return the cleanup function.
