@@ -77,3 +77,7 @@ CSS: `gap` works in flexbox now, not just grid — no more margin-hack spacing b
 ## 2026-08-17
 
 Firebase: Firestore listeners leak if not unsubscribed on unmount — always return the cleanup function.
+
+## 2026-08-18
+
+Node: `Promise.allSettled` is safer than `Promise.all` when you don't want one rejection to kill the batch.
