@@ -89,3 +89,7 @@ React: Context re-renders every consumer on change — split contexts by update 
 ## 2026-08-20
 
 Expo: expo-notifications requires a physical device for push testing — simulators won't receive them.
+
+## 2026-08-21
+
+Accessibility: focus outlines exist for a reason — hide them only if you provide an alternative focus style.
