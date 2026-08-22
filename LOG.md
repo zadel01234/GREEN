@@ -93,3 +93,7 @@ Expo: expo-notifications requires a physical device for push testing — simulat
 ## 2026-08-21
 
 Accessibility: focus outlines exist for a reason — hide them only if you provide an alternative focus style.
+
+## 2026-08-22
+
+Git: `git bisect` is faster than manually hunting for which commit introduced a bug.
