@@ -101,3 +101,7 @@ Git: `git bisect` is faster than manually hunting for which commit introduced a 
 ## 2026-08-23
 
 React: useEffect cleanup runs before the next effect AND on unmount — don't forget the first case.
+
+## 2026-08-24
+
+MUI DataGrid: virtualization means offscreen rows aren't in the DOM — don't rely on querySelector for rows.
