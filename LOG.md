@@ -129,3 +129,7 @@ PWA: Progressive Web Apps can be installed on mobile devices and desktops, provi
 ## 2026-08-30
 
 React: useMemo only helps if the computation is actually expensive — measure before reaching for it.
+
+## 2026-08-31
+
+MUI: sx prop values re-create objects on every render; use styled() for anything performance-sensitive.
