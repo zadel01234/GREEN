@@ -133,3 +133,7 @@ React: useMemo only helps if the computation is actually expensive — measure b
 ## 2026-08-31
 
 MUI: sx prop values re-create objects on every render; use styled() for anything performance-sensitive.
+
+## 2026-09-01
+
+Git: `git commit --fixup` + `git rebase -i --autosquash` keeps history clean when fixing earlier commits.
