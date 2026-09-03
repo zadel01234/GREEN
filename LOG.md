@@ -141,3 +141,7 @@ Git: `git commit --fixup` + `git rebase -i --autosquash` keeps history clean whe
 ## 2026-09-02
 
 React Native: FlatList's getItemLayout avoids expensive layout measurement for fixed-height rows.
+
+## 2026-09-03
+
+JS: structuredClone() is now widely supported and beats JSON.parse(JSON.stringify()) for deep clones.
