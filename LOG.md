@@ -201,3 +201,7 @@ JS: Array.prototype.at(-1) is a clean alternative to arr[arr.length - 1].
 ## 2026-09-17
 
 Design systems: define spacing/color tokens once — hardcoded values are the first thing that drifts.
+
+## 2026-09-18
+
+React: derived state belongs in render, not in useEffect + setState — it just costs an extra render.
