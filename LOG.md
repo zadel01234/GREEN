@@ -241,3 +241,7 @@ MUI: theme.palette.mode-aware components should read from useTheme(), not hardco
 ## 2026-09-27
 
 TypeScript: prefer `satisfies` over type assertions when you want inference AND type checking.
+
+## 2026-09-28
+
+React: keys should be stable and unique — array index keys break state when list order changes.
