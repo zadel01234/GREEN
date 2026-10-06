@@ -273,3 +273,7 @@ Accessibility: focus outlines exist for a reason — hide them only if you provi
 ## 2026-10-05
 
 Git: `git bisect` is faster than manually hunting for which commit introduced a bug.
+
+## 2026-10-06
+
+React: useEffect cleanup runs before the next effect AND on unmount — don't forget the first case.
