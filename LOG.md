@@ -301,3 +301,7 @@ React/MUI patterns: leverage the power of these libraries to build more maintain
 ## 2026-10-12
 
 PWA: Progressive Web Apps can be installed on mobile devices and desktops, providing a native-like experience.
+
+## 2026-10-13
+
+React: useMemo only helps if the computation is actually expensive — measure before reaching for it.
