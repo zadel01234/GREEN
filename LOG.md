@@ -321,3 +321,7 @@ React Native: FlatList's getItemLayout avoids expensive layout measurement for f
 ## 2026-10-17
 
 JS: structuredClone() is now widely supported and beats JSON.parse(JSON.stringify()) for deep clones.
+
+## 2026-10-18
+
+MUI: theme.palette.mode-aware components should read from useTheme(), not hardcode hex values.
