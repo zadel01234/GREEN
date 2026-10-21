@@ -333,3 +333,7 @@ TypeScript: prefer `satisfies` over type assertions when you want inference AND 
 ## 2026-10-20
 
 React: keys should be stable and unique — array index keys break state when list order changes.
+
+## 2026-10-21
+
+CSS: `gap` works in flexbox now, not just grid — no more margin-hack spacing between items.
