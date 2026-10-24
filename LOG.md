@@ -345,3 +345,7 @@ Firebase: Firestore listeners leak if not unsubscribed on unmount — always ret
 ## 2026-10-23
 
 Node: `Promise.allSettled` is safer than `Promise.all` when you don't want one rejection to kill the batch.
+
+## 2026-10-24
+
+React: Context re-renders every consumer on change — split contexts by update frequency.
