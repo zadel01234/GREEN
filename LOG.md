@@ -381,3 +381,7 @@ Design systems: define spacing/color tokens once — hardcoded values are the fi
 ## 2026-11-01
 
 React: derived state belongs in render, not in useEffect + setState — it just costs an extra render.
+
+## 2026-11-02
+
+React/MUI patterns: leverage the power of these libraries to build more maintainable and performant UIs.
