@@ -413,3 +413,7 @@ JS: structuredClone() is now widely supported and beats JSON.parse(JSON.stringif
 ## 2026-11-09
 
 MUI: theme.palette.mode-aware components should read from useTheme(), not hardcode hex values.
+
+## 2026-11-10
+
+TypeScript: prefer `satisfies` over type assertions when you want inference AND type checking.
