@@ -457,3 +457,7 @@ React: useEffect cleanup runs before the next effect AND on unmount — don't fo
 ## 2026-11-20
 
 MUI DataGrid: virtualization means offscreen rows aren't in the DOM — don't rely on querySelector for rows.
+
+## 2026-11-21
+
+JS: Array.prototype.at(-1) is a clean alternative to arr[arr.length - 1].
