@@ -473,3 +473,7 @@ React: derived state belongs in render, not in useEffect + setState — it just 
 ## 2026-11-24
 
 React/MUI patterns: leverage the power of these libraries to build more maintainable and performant UIs.
+
+## 2026-11-25
+
+PWA: Progressive Web Apps can be installed on mobile devices and desktops, providing a native-like experience.
